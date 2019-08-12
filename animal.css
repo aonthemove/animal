@@ -1,0 +1,23 @@
+#header{
+    font-size: 24px;
+    color: orangered;
+    text-align: center;
+}
+#cheetahHeader{
+    font-size: 18px;
+    color: black;
+    text-align: center;
+}
+ul{
+    text-align: left;
+}
+#p1{
+    text-align: center;
+
+}
+#cheetah{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
